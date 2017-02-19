@@ -29,6 +29,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'dotenv-rails', '~> 2.2'
 gem 'devise', '~> 4.2'
+gem 'materialize-sass', '~> 0.98.0'
 # gem 'rails-assets-polymer', source: 'https://rails-assets.org'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
